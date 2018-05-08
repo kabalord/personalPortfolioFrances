@@ -488,6 +488,10 @@ TOC :
    #call-to-action h2 {
      font: 700 24px/36px "Open Sans",sans-serif;
    }
+
+   .timeline-event-copy p:not(.timeline-event-thumbnail) {
+    text-align: left;
+}
    /* footer
    ------------------------------------------------------------------------ */
   #map{
